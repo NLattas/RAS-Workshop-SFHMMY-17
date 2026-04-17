@@ -504,14 +504,14 @@ def run_cli() -> None:
         # =================================================================================
 
  
-        model = # ADD
-        model._load_graphml()
-        model. # ADD
+    model = # ADD
+    model._load_graphml()
+    model. # ADD
 
-        beliefs = []
-        first_time = 1
-        bel = model.# ADD 
-        beliefs.append(# ADD)
+    beliefs = []
+    first_time = 1
+    bel = model.# ADD 
+    beliefs.append(# ADD)
         for obs in observations:
             print("\n\n\n---------------------\n\n\n")
             if not first_time:
